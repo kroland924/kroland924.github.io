@@ -42,22 +42,22 @@ h4 {
 }
 
 li {
-   list-style-type: square;
-   margin-top: 3px;
+      list-style-type: square;
+      margin-top: 3px;
 }
 
 ul {
-   margin-top: 15px;
-   margin-bottom: 10px;
-   margin-left: 150px;
+      margin-top: 15px;
+      margin-bottom: 10px;
+      margin-left: 150px;
 }
 
 .top {
-    display: block;
-    margin-left: 30px;
-    margin-right: 30px;
-    border-style: inset;
-    border-width: 1px;
+      display: block;
+      margin-left: 30px;
+      margin-right: 30px;
+      border-style: inset;
+      border-width: 1px;
 }
 
 #degree {
@@ -71,7 +71,7 @@ ul {
     margin-top: -0.20%;
     margin-left: 30px;
     margin-right: 30px;
-    border-style: inset;
+
     border-width: 1px;
 
 }
